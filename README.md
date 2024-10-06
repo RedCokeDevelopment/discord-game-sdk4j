@@ -1,6 +1,6 @@
 # discord-game-sdk4j
 
-[![](https://jitpack.io/v/JnCrMx/discord-game-sdk4j.svg)](https://jitpack.io/#JnCrMx/discord-game-sdk4j)
+[![](https://jitpack.io/v/RedCokeDevelopment/discord-game-sdk4j.svg)](https://jitpack.io/#RedCokeDevelopment/discord-game-sdk4j)
 
 This project provides Java bindings for the
 [Discord GameSDK](https://discordapp.com/developers/docs/game-sdk/sdk-starter-guide).
@@ -67,7 +67,7 @@ attach sources or JavaDocs.
 
 To install the library from source first of all clone the repository:
 ```shell script
-git clone https://github.com/JnCrMx/discord-game-sdk4j.git
+git clone https://github.com/RedCokeDevelopment/discord-game-sdk4j.git
 ```
 
 Finally build (and install) the library with Maven:
